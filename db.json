@@ -1,0 +1,68 @@
+{
+  "people": [
+    {
+      "name": "John Doe",
+      "age": "30",
+      "job": "Software Engineer",
+      "about": "Passionate about coding and building innovative solutions. Enjoys learning new technologies and collaborating with teams to create impactful software.",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "eab3"
+    },
+    {
+      "name": "Jane Smith",
+      "age": "25",
+      "job": "Graphic Designerrrrrr",
+      "about": "Creative mind with a passion for visual storytelling. Enjoys bringing ideas to life through design and exploring new artistic techniques.",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "id": "fgh7"
+    },
+    {
+      "name": "Ivarssss",
+      "age": "35",
+      "job": "Data Scientistsdddd",
+      "about": "Analytical thinker with a love for data. Enjoys exploring patterns and trends to derive meaningful insights for decision-making.",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "id": "ijk9"
+    },
+    {
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Emily Davis",
+      "age": "28",
+      "job": "Marketing Specialist",
+      "about": "Strategic marketer with a focus on brand building. Enjoys creating engaging campaigns and connecting with target audiences.",
+      "id": "lmn2"
+    },
+    {
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Daniel Brown",
+      "age": "32",
+      "job": "UX/UI Designer",
+      "about": "User-centric designer passionate about creating seamless and delightful digital experiences. Enjoys solving complex design challenges.",
+      "id": "opq4"
+    },
+    {
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "name": "Sophia Wilson",
+      "age": "29",
+      "job": "Financial Analyst",
+      "about": "Detail-oriented financial professional with a love for numbers. Enjoys analyzing financial data to support business decisions.",
+      "id": "rst8"
+    },
+    {
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "Andrew Taylor",
+      "age": "33",
+      "job": "Product Manager",
+      "about": "Innovative product strategist with a passion for delivering value to users. Enjoys leading cross-functional teams to bring products to market.",
+      "id": "abc6"
+    },
+    {
+      "name": "Daniel Smithffasfasfas",
+      "age": "40",
+      "job": "Data Scientist",
+      "about": "Data scientist with a background in machine learning. Enjoys analyzing complex datasets and extracting valuable insights to drive decision-making.",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "id": "ghi8"
+    }
+  ]
+}
